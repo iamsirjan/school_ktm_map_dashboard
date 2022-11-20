@@ -1,0 +1,691 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59 e21c39fe",
+  "osm3s": {
+    "timestamp_osm_base": "2022-11-19T07:57:39Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 575231600,
+      "lat": 27.7201758,
+      "lon": 85.3017867,
+      "tags": {
+        "amenity": "school",
+        "name": "Oxford Boarding School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1892796767,
+      "lat": 27.7032639,
+      "lon": 85.3192223,
+      "tags": {
+        "amenity": "school",
+        "name": "Sachdeva Institute"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905319787,
+      "lat": 27.7008865,
+      "lon": 85.3220186,
+      "tags": {
+        "amenity": "school",
+        "name": "Beginners' Home academy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905332715,
+      "lat": 27.701804,
+      "lon": 85.322144,
+      "tags": {
+        "amenity": "school",
+        "name": "Kathmandu Valley Education Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905343593,
+      "lat": 27.7029137,
+      "lon": 85.3225938,
+      "tags": {
+        "amenity": "school",
+        "name": "American Education Foundation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905354084,
+      "lat": 27.7026443,
+      "lon": 85.3230168,
+      "tags": {
+        "amenity": "school",
+        "name": "Rising ray bording school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905359703,
+      "lat": 27.7021604,
+      "lon": 85.3244126,
+      "tags": {
+        "amenity": "school",
+        "name": "CIMA CA classes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905365904,
+      "lat": 27.7011113,
+      "lon": 85.3237769,
+      "tags": {
+        "amenity": "school",
+        "name": "Vibrant Entrance Preparation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905390641,
+      "lat": 27.7050283,
+      "lon": 85.3250159,
+      "tags": {
+        "amenity": "school",
+        "name": "Universal language and computer institute"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977514708,
+      "lat": 27.7204411,
+      "lon": 85.3096223,
+      "tags": {
+        "amenity": "school",
+        "name": "Kinder Care International"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2101286233,
+      "lat": 27.7208063,
+      "lon": 85.3191849,
+      "tags": {
+        "amenity": "school",
+        "name": "Mills Berry School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2127144885,
+      "lat": 27.7194598,
+      "lon": 85.3095534,
+      "tags": {
+        "amenity": "school",
+        "name": "Sandra Namuna School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2165424724,
+      "lat": 27.6933442,
+      "lon": 85.3131083,
+      "tags": {
+        "amenity": "school",
+        "name": "Kanti Ishwari School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2249051082,
+      "lat": 27.705349,
+      "lon": 85.3259582,
+      "tags": {
+        "amenity": "school",
+        "designation": "Girls School",
+        "name": "Padmakanya Vidyashram H.S. School and College"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2591253673,
+      "lat": 27.7055958,
+      "lon": 85.2953507,
+      "tags": {
+        "amenity": "school",
+        "name": "Bella Pre School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3413954371,
+      "lat": 27.7187532,
+      "lon": 85.2862689,
+      "tags": {
+        "amenity": "school",
+        "name": "Sanskriti International School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3506396287,
+      "lat": 27.7088736,
+      "lon": 85.3162192,
+      "tags": {
+        "amenity": "school",
+        "name": "Department of Chemistry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3506399401,
+      "lat": 27.7086504,
+      "lon": 85.3158005,
+      "tags": {
+        "amenity": "school",
+        "name": "Department of Biology"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3506400900,
+      "lat": 27.7086655,
+      "lon": 85.3162155,
+      "tags": {
+        "amenity": "school",
+        "name": "Department of Physics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3640850574,
+      "lat": 27.7118201,
+      "lon": 85.2877803,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3640853051,
+      "lat": 27.7121382,
+      "lon": 85.2881646,
+      "tags": {
+        "amenity": "school",
+        "name": "Orphan school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4063662843,
+      "lat": 27.7040669,
+      "lon": 85.2861028,
+      "tags": {
+        "amenity": "school",
+        "name": "Rupy's School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4200025289,
+      "lat": 27.692103,
+      "lon": 85.3195495,
+      "tags": {
+        "addr:street": "Thapathali",
+        "amenity": "school",
+        "name": "The British College"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4234105891,
+      "lat": 27.7121657,
+      "lon": 85.2975626,
+      "tags": {
+        "amenity": "school",
+        "email": "info@bgmsm.edu.np",
+        "name": "Bijeshwari Gyan Mandir Sainik Mahavidyalaya",
+        "opening_hours": "Su-Fr 09:00-17:00",
+        "phone": "014271498",
+        "website": "https://www.bgmsm.edu.np/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4284551293,
+      "lat": 27.6934726,
+      "lon": 85.2908239,
+      "tags": {
+        "addr:street": "Nag Marg",
+        "amenity": "school",
+        "name": "Gyankunj College",
+        "opening_hours": "Su-Fr 06:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4284626090,
+      "lat": 27.6933859,
+      "lon": 85.2908034,
+      "tags": {
+        "addr:street": "Nag Marg",
+        "amenity": "school",
+        "name": "Gyankunj College",
+        "opening_hours": "Su-Fr 06:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4286241989,
+      "lat": 27.6938831,
+      "lon": 85.2949151,
+      "tags": {
+        "amenity": "school",
+        "name": "Nepal Academy of Tourism and Hotel Management (NATHM)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4371576817,
+      "lat": 27.7020967,
+      "lon": 85.2936272,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Westwood International School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4388706589,
+      "lat": 27.705451,
+      "lon": 85.3205277,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Shinwha Korean Language",
+        "phone": "016923152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396927089,
+      "lat": 27.7182484,
+      "lon": 85.3190476,
+      "tags": {
+        "amenity": "school",
+        "name:en": "IDP Australia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4484880889,
+      "lat": 27.6924624,
+      "lon": 85.2956151,
+      "tags": {
+        "addr:street": "Pradhikaran Marg",
+        "amenity": "school",
+        "email": "thetoddlerszone@gmail.com",
+        "name:en": "Nawaneet Toddlers' Zone",
+        "opening_hours": "Su-Fr 10:00-22:00",
+        "phone": "4286300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4485653289,
+      "lat": 27.6928769,
+      "lon": 85.2956147,
+      "tags": {
+        "addr:housenumber": "44614",
+        "addr:street": "Pradhikaran Marg",
+        "amenity": "school",
+        "email": "thetoddlerszone@gmail.com",
+        "name:en": "Nawaneet Toddlers' Zone",
+        "phone": "014286300"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4520851990,
+      "lat": 27.7170365,
+      "lon": 85.3028299,
+      "tags": {
+        "amenity": "school",
+        "name": "Prime College (New Building)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524218348,
+      "lat": 27.7073629,
+      "lon": 85.3190501,
+      "tags": {
+        "amenity": "school",
+        "email": "info@uniglobecollege.edu.np",
+        "name": "Uniglobe Higher Secondary School",
+        "phone": "977-1-4220722|4251409|4221875"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4526539093,
+      "lat": 27.6919803,
+      "lon": 85.2922079,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Janamaitri Multiple Campus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4565172098,
+      "lat": 27.7114065,
+      "lon": 85.306114,
+      "tags": {
+        "amenity": "school",
+        "name:en": "White field school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4636693590,
+      "lat": 27.7030497,
+      "lon": 85.3217301,
+      "tags": {
+        "addr:postcode": "00977",
+        "amenity": "school",
+        "name:en": "Seven Hills Foundation (Education Consultancy)",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "operator": "Anil Sah",
+        "phone": "012294245",
+        "website": "http://www.7hf.edu.np"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4681234990,
+      "lat": 27.7024948,
+      "lon": 85.3217645,
+      "tags": {
+        "amenity": "school",
+        "email": "caipvtltd@gmail.com",
+        "name:en": "CAI International (for CA classes since 1996)",
+        "operator": "saroj shrestha",
+        "phone": "014168051"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4720084791,
+      "lat": 27.705863,
+      "lon": 85.3096378,
+      "tags": {
+        "amenity": "school",
+        "name:en": "THE IMAGEPARK"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4809187725,
+      "lat": 27.7015277,
+      "lon": 85.3218282,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Padmodaya Higher Secondary School",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4844865058,
+      "lat": 27.7004744,
+      "lon": 85.3208527,
+      "tags": {
+        "amenity": "school",
+        "description": "main building"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4854790124,
+      "lat": 27.7174321,
+      "lon": 85.3085101,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Neelgiri schoil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4908304721,
+      "lat": 27.7065834,
+      "lon": 85.322433,
+      "tags": {
+        "addr:street": "Tu Galli",
+        "amenity": "school",
+        "name:en": "Collins GRE preparation",
+        "opening_hours": "Mo-Fr 06:00-19:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4929157924,
+      "lat": 27.700836,
+      "lon": 85.3237777,
+      "tags": {
+        "addr:street": "New Plaza Road",
+        "amenity": "school",
+        "name:en": "Global Study Partners Nepal",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "phone": "+977 1-2238880",
+        "website": "https://globalstudypartners.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4939483121,
+      "lat": 27.7031253,
+      "lon": 85.3228679,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Landmark Consultancy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5068575022,
+      "lat": 27.7030649,
+      "lon": 85.3219399,
+      "tags": {
+        "addr:street": "Adwait Marg",
+        "amenity": "school",
+        "name:en": "KEC Institute",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349249522,
+      "lat": 27.6982139,
+      "lon": 85.2997341,
+      "tags": {
+        "amenity": "school",
+        "email": "educareshashi@gmail.com",
+        "name:en": "Educare Abroad Consult Pvt. Ltd",
+        "opening_hours": "Sa 09:00-18:00; Su-Fr 06:00-18:00",
+        "operator": "SP Bhattarai",
+        "phone": "014288243",
+        "website": "http://www.educare.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5465965521,
+      "lat": 27.7055393,
+      "lon": 85.3230444,
+      "tags": {
+        "addr:street": "Dilli Bazaar Road",
+        "amenity": "school",
+        "email": "info@skyfall.edu.np",
+        "name:en": "Skyfall Educational Consultancy",
+        "phone": "014410965",
+        "website": "http://www.skyfall.edu.np"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5625028221,
+      "lat": 27.7092014,
+      "lon": 85.3149129,
+      "tags": {
+        "addr:postcode": "44600",
+        "addr:street": "Kanti Path",
+        "amenity": "school",
+        "name:en": "Maya Animation Acadamy",
+        "phone": "9860140513",
+        "website": "http://www.maya-animation.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5848783091,
+      "lat": 27.7053049,
+      "lon": 85.3218772,
+      "tags": {
+        "amenity": "school"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5999458615,
+      "lat": 27.7141557,
+      "lon": 85.2875981,
+      "tags": {
+        "amenity": "school",
+        "name": "Serkong Dorji Chang Academy",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6021113419,
+      "lat": 27.7192068,
+      "lon": 85.3049487,
+      "tags": {
+        "amenity": "school",
+        "name": "Geetanjali H.S. School",
+        "toilets:wheelchair": "no",
+        "website": "https://heavenhimalaya.com",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056988785,
+      "lat": 27.6947178,
+      "lon": 85.2856094,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Nepalaya School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6118675763,
+      "lat": 27.6892681,
+      "lon": 85.2947596,
+      "tags": {
+        "addr:place": "kuleshwor 14",
+        "addr:street": "gaurishankar margh",
+        "amenity": "school",
+        "name": "shiksha kids education",
+        "opening_hours": "9:00-15:00",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6771636474,
+      "lat": 27.7214995,
+      "lon": 85.3037948,
+      "tags": {
+        "amenity": "school",
+        "description": "English medium,  nayabazar",
+        "name": "Che high schiol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7925315385,
+      "lat": 27.6973057,
+      "lon": 85.2974847,
+      "tags": {
+        "amenity": "school",
+        "name:en": "Gillette School",
+        "opening_hours": "Su-Fr 08:30-17:00",
+        "operator": "Netra Bahadur Limbu",
+        "phone": "+97715165136"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8696390312,
+      "lat": 27.7102351,
+      "lon": 85.3109372,
+      "tags": {
+        "amenity": "school",
+        "name": "Linga Learning Institute",
+        "source": "C2M2 Kathmandu Field Survey 2021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9482994712,
+      "lat": 27.7018563,
+      "lon": 85.3120351,
+      "tags": {
+        "amenity": "school",
+        "name": "Sankata Primary School",
+        "operator:type": "government",
+        "personnel:count": "7",
+        "source": "OpenDRI survey",
+        "start_date": "1960-1990"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9491901304,
+      "lat": 27.7058779,
+      "lon": 85.3121169,
+      "tags": {
+        "addr:street": "mahaboudha ason",
+        "addr:ward": "27",
+        "amenity": "school",
+        "building_count": "3",
+        "isced:level": "secondary",
+        "name": "Mahankal Secondary School",
+        "operator": "government",
+        "operator:type": "government",
+        "personnel:count": "26",
+        "source": "OpenDRI survey",
+        "student:count": "415"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9916683303,
+      "lat": 27.7070513,
+      "lon": 85.3225908,
+      "tags": {
+        "amenity": "school",
+        "email": "contact@gardenofbuds.org",
+        "mobile": "9818622622",
+        "name": "Garden Of Buds Pre School",
+        "phone": "014371208,014371186",
+        "website": "https://www.gardenofbuds.org/"
+      }
+    }
+  ]
+}
